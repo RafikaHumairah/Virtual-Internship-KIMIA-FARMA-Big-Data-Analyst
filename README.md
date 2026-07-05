@@ -151,8 +151,8 @@ Investigate the decline in revenue during 2023 and develop strategies to restore
 
 ## 📷 Dashboard Preview
 
-![Kimia Farma Dashboard](dashboard-kimia-farma.png)
-
+![Kimia Farma Dashboard](1.png)
+![Kimia Farma Dashboard](2.png)
 ---
 ## 🔗 Live Dashboard
 [View Dashboard](https://datastudio.google.com/reporting/c17295e6-a34a-46a0-8b58-68398de354c8)
